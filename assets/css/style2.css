@@ -788,7 +788,7 @@ footer{
 @media (max-width:830px){
     /*header*/
     header{
-        background-color: blue;
+        padding-left:30px;
     }
     .menu{
        display: none;
